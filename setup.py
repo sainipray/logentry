@@ -4,7 +4,7 @@ setup(
     name=logentry.__name__,
     version=logentry.__version__,
     packages=find_packages(),
-    url='https://github.com/sainipray/django-logentry',
+    url='https://github.com/sainipray/logentry',
     author=logentry.__author__,
     author_email=logentry.__author_email__,
     description=logentry.__description__,

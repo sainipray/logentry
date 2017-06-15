@@ -2,6 +2,8 @@
 Logentry
 ===============
 
+This will save django admin user histroy and showing in admin also saved deleted user history.
+
 .. image:: https://img.shields.io/pypi/v/logentry.svg
     :target: https://pypi.python.org/pypi/logentry
 
@@ -11,7 +13,7 @@ Logentry
 Overview
 ========
 
-- Showing users admin history also saved history of deleted users
+- Showing users django admin history also saved history of deleted users
 
 Documentation
 =============
@@ -36,4 +38,4 @@ Documentation
 License
 =======
 
-Djsingleton is an Open Source project licensed under the terms of the `MIT license <https://github.com/sainipray/django-logentry/blob/master/LICENSE>`_
+logentry is an Open Source project licensed under the terms of the `MIT license <https://github.com/sainipray/logentry/blob/master/LICENSE>`_
